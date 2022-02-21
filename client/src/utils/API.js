@@ -1,3 +1,5 @@
+//NO LONGER NEEDED AFTER CONVERSION TO GRAPHQL AND APOLLO
+
 // // route to get logged in user's info (needs the token)
 // export const getMe = (token) => {
 //   return fetch('/api/users/me', {
@@ -55,3 +57,5 @@
 // export const searchGoogleBooks = (query) => {
 //   return fetch(`https://www.googleapis.com/books/v1/volumes?q=${query}`);
 // };
+
+//NO LONGER NEEDED AFTER CONVERSION TO GRAPHQL AND APOLLO

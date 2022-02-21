@@ -1,3 +1,6 @@
+//NO LONGER NEEDED AFTER CONVERSION TO GRAPHQL AND APOLLO
+
+
 // // import user model
 // const { User } = require('../models');
 // // import sign token function from auth
